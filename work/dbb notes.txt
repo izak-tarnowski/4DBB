@@ -1,0 +1,12 @@
+primary key is a unique identifier, eg #ID or significant name
+entity is where you store your info for different info, eg author: name, addy, email where author is the entity
+foreign key is the way to reach out to other entities to retreive data from it
+erd - entity relative diagram
+= Equal to
+!= / <> GREATER OR LESS THAN(Not equal to)
+> Greater than
+>= Greater than or equal to
+!> Not greater than
+< Less than
+<= Less than or equal to
+!< Not less than
